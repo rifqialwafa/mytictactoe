@@ -18,8 +18,8 @@
   }
 
   .box {
-    min-width: 70px;
-    min-height: 70px;
+    min-width: 80px;
+    min-height: 80px;
     background: #dee9ec;
     text-align: center;
     vertical-align: middle;
@@ -140,8 +140,8 @@
       .tbl-score{
         width: 100%;
       }
-      .box {
-        min-width: 100px;
-        min-height: 100px;
-      }
+      /* .box {
+        min-width: 80px;
+        min-height: 80px;
+      } */
   }
