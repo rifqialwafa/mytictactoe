@@ -137,11 +137,13 @@
   }
 
   @media screen and (max-width: 858px) {
-      .tbl-score{
+      /* .tbl-score{
         width: 100%;
-      }
-      /* .box {
-        min-width: 80px;
-        min-height: 80px;
       } */
+      .box {
+        min-width: 120px;
+        min-height: 120px;
+        font-size: 71px;
+      }
+
   }
